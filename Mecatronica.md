@@ -3,6 +3,10 @@
 
 ## Actividades
 
+4 de Marzo : Inductores y Servidor linux
+13 de Marzo : Indusctores (medición) , capacitores y lanzamiento de cuentas xbuntu. Seguimiento de satélites.
+
+
 
 
 

@@ -163,3 +163,5 @@
 | Martínez | Rocio | rocimartinezdiaz@gmail.com | 2615989777 |
 | Coronado Pungitore | Ignacio Martin | ignaciomcoronadopungitore@gmail.com | 2612161983 |
 | Allamand | Francisco | franallamand05@gmail.com | 2614688567 |
+| Egea | Sebastián | segea86@gmail.com | 2616416126 |
+| Ristagno | Juan Ignacio | ignacio.ristagno@gmail.com | 2613649714|

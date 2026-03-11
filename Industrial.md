@@ -4,6 +4,10 @@
 
 ## Actividades
 
+4 de Marzo ->  markdown creación de paginas de github individual y link a página del grupo.
+
+11 de Marzo -> colab github tablas, incrustar imágenes, html w3c, construcción de landing page
+
 
 
 ## Listado

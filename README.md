@@ -6,33 +6,32 @@ Mediación de Materiales TyHM 2026
 
 |Grupo de Trabajo | Github de entrega  | Rúbricas |
 |-----------------|------------------------------------------------------------|-------------|
-| Animatrónicos  | | | 
-|* “The industrial squad”|  |  |
-|* "1.	Chiofalo UFGOSUYZ"|  |  |
-| 6 personas y 2 porteños |  |  |
-| Budin de Pan |  |  |
-| Campana by Gauss |  |  |
-| Ctrl C Ctrl V|  |  |
-| Exteriores |  |  |
-| GMech |  |  |
-| Grupo N°43 |  |  |
-| Hexadimensional|  |  |
-| Industrial |  |  |
-| Ingenieros en proceso |  |  |
-| La banda del rotocalomestrador  |  |  |
-| Las 7 maravillas |  |  |
-| Los Argento  |  |  |
-| Los picantes del este |  |  |
-| Los Pollitos Group  |  |  |
-| lxs sin nombre  |  |  |
-| Optimización 202  |  |  |
-| OutPut  |  |  |
-| Papucho  |  |  |
-| Power Ranger  |  |  |
-| Papucho  |  |  |
-| Rejunte |  |  |
-| SanPa  |  |  |
-| Tito Calderón  |  |  |
-| Tour Industrial  |  |  |
-| Vector Nulo  |  |  |
-| Yacomayo | | |
+| Actitud positiva :) |  |  |
+| Aleph |  |  |
+| Avogadro toast |  |  |
+| Budín de banana |  |  |
+| Calculito |  |  |
+| Clasica y moderna |  |  |
+| Concejo de sabios |  |  |
+| Dybala a Boca |  |  |
+| Error 404 |  |  |
+| Gordillos Siuu |  |  |
+| JIBS |  |  |
+| Joulie Faraday |  |  |
+| KPI Rojos |  |  |
+| Las valientes  |  |  |
+| Le Chats |  |  |
+| Los Inductores |  |  |
+| Los Siraníes  |  |  |
+| Los Palmera |  |  |
+| Los $\pi$ |  |  |
+| Mate Amargo  |  |  |
+| Modern Tech |  |  |
+| Pipu’s  |  |  |
+| Sinergia 5S |  |  |
+| Tecnica2 |  |  |
+| Zzz |  |  |
+| $\lambda$|  |  |
+
+
+

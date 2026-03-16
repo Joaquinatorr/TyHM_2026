@@ -7,32 +7,29 @@ Mediación de Materiales TyHM 2026
 |Grupo de Trabajo | Github de entrega  | Rúbricas |
 |-----------------|------------------------------------------------------------|-------------|
 | Actitud positiva :) |  | Delfina Gómez Ganam , Emiliano Ochoa, Bietti Tomás, Gianella Sfrede Genaro ,Ignacio Perez  |
-| Aleph |  | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol, Matías Rosa ,Yesica Elizabeth ,Ruben Exequiel Cruz |
+| Aleph |  | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol, Matías Rosa ,Yesica Elizabeth , Simón Manuel ,Chiara Palmero,Ruben Exequiel Cruz |
 | Avogadro toast |  | Pilar Mujica, Lucia Salamone ,Rocio , Valentina  |
 | Budín de banana |  | Dominguez Galdame	Lucía Constanza, Bonita	Milagros Farina,.	María Romero ,Valle 	Julieta  |
 | Calculito |  | Guillermo Damián ,Fabricio, Tiago Sánchez, Mateo Ambrogetti ,Victoria Bautista   |
-| Clasica y moderna |  | Sfragara	Luciano ,Zoia	Julián ,.	Joaquín , .	Santiago Perez Vicchi  |
+| Clasica y moderna |  | María Guadalupe ,Sfragara	Luciano ,Zoia	Julián ,.	Joaquín , .	Santiago Perez Vicchi  |
 | Concejo de sabios |  |//	Pedro, Spongia,	Joaquín Spongia, Facundo Perea, García 	Leslie Rocío ,//	Joaquín  |
 | Dybala a Boca |  | Santiago Joaquín Peña, Sebastian Ezequiel ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  |
 | Error 404 |  | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez  |
-| Gordillos Siuu |  | .	Juan González Ignacio 
-.	Pilar Zuñiga 
-Euillades	Santiago 
-Huenchuguala	Joaquin
-.	Celeste |
-| JIBS |  |  |
-| Joulie Faraday |  |  |
-| KPI Rojos |  |  |
-| Las valientes  |  |  |
-| Le Chats |  |  |
-| Los Inductores |  |  |
-| Los Siraníes  |  |  |
-| Los Palmera |  |  |
-| Los $\pi$ |  |  |
-| Mate Amargo  |  |  |
-| Modern Tech |  |  |
-| Pipu’s  |  |  |
-| Sinergia 5S |  |  |
+| Gordillos Siuu |  | .	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , Huenchuguala	Joaquin ,.	Celeste |
+| JIBS |  |.	Marcia Benegas ,.	Gonzalez Gonzalo, Egea	Sebastián, -	Simonovich Jael Gisel ,  	Juan Ignacio Ristagno   |
+| Joulie Faraday |  | Mauricio Jesús Mansur Emanuel Mattia Malnis  Valentino Giampietri  Ana Clara Godoy |
+| KPI Rojos |  | Villalba	Ezequiel Del Popolo	Francisco Smovir	Pablo .	Matias Salinas  |
+| Las valientes  |  | .	Paulina Maselli -	Rosario .	Angelica Collazo  	Juana .	Angelina |
+| Les Chats |  | jiji	Andrés , Buttazzoni Gonzalez 	Juan Francisco , 	Lucas Manuel Baena , mercier	chloé , -	Francisco Avallone |
+| Los Inductores |  | A	Franco Manassero, Leo Crimi 	Caetana Electra , Ludueña 	Alondra Pilar ,.	Joaquin Bressan ,Don	Guillermo Ignacio ,.	Ignacio March |
+| Los Siraníes  |  | .	Ignacio March, -	Renzo, ega	Lucas,	Pedro Farjo ,Silioni	Luca, .	Enzo carbone  |
+| Los Palmera |  | Luciano Figuera, Lisandro Cerdán , Alejo Daniel, Juan Mateo Hidalgo, ManuelMatteo Pratellesi Diaz, Juan Martín Funes , Juan Cruz, Bautista Calderón  |
+| Los Técnicos |  | Camila, Maite Julieta, Ignacio Coronado ,  Franca |, 
+| Los $\pi$ |  | Tiago Friscolanti, Santiago Jara, Gerardo , Facundo Romero |
+| Mate Amargo  |  | Emiliano Daniel Jaime Ayosa , María Mashael Allay Alfonso , Estefania Funes Brown , Nancy Noemi Sara Fajardo |
+| Modern Tech |  | Eugenio ,Sofía Blas Delpozzi, Rocio Anabel, Bianca Nicole, Camila |
+| Pipu’s  |  | Bautista, Ian, Mateo isgro, Joaquin |
+| Sinergia 5S |  | Scaccia 	Octavio, Benedetti	Gino , .	Rocío Andre , 	Sol Florindo ,Pereyra 	Martina  |
 | Tecnica2 |  |  |
 | Zzz |  |  |
 | $\lambda$|  |  |

@@ -34,7 +34,7 @@ Mediación de Materiales TyHM 2026
 | Los $\pi$ |  | Tiago Friscolanti, Santiago Jara, Gerardo , Facundo Romero |
 | Mate Amargo  |  | Emiliano Daniel Jaime Ayosa , María Mashael Allay Alfonso , Estefania Funes Brown , Nancy Noemi Sara Fajardo |
 | Modern Tech |  | Eugenio ,Sofía Blas Delpozzi, Rocio Anabel, Bianca Nicole, Camila |
-| Pipu’s  |  | Bautista, Ian, Mateo isgro, Joaquin |
+| Pipu’s  | https://github.com/IAN3CANADAS/ENTREGAMODULO1 | Bautista, Ian, Mateo isgro, Joaquin, <lucas Salvo, Nico La Rocca |
 | Sinergia 5S |  | Scaccia 	Octavio, Benedetti	Gino , .	Rocío Andre , 	Sol Florindo ,Pereyra 	Martina  |
 | Tecnica2 ZZZ | https://github.com/bautistapons/entregass | * Juan Manuel, * Ariana Galli, Rocio Gomez, Maria Celina Lopez, Maia Ortiz, Bautista Pons |
 | $\lambda$|  | .	Juan Martín, Notti	Joaquin , Peiro	Francisco, .	Nicolas Sarmiento , .	Raimundo Glasner |

@@ -34,7 +34,7 @@ Mediación de Materiales TyHM 2026
 | Los Técnicos |  | Camila, Maite Julieta, Ignacio Coronado ,  Franca |, 
 | Los $\pi$ |  | Tiago Friscolanti, Santiago Jara, Gerardo , Facundo Romero |
 | Mate Amargo  |  | Emiliano Daniel Jaime Ayosa , María Mashael Allay Alfonso , Estefania Funes Brown , Nancy Noemi Sara Fajardo |
-| Modern Tech |  | Eugenio ,Sofía Blas Delpozzi, Rocio Anabel, Bianca Nicole, Camila |
+| Modern Tech | http://github.com/sofi-blas/Entrega-Modulo1 | Eugenio Alastra ,Sofía Blas Delpozzi, Rocio Anabel, Bianca Nicole Lombardo, Camila Sepulveda, Luciana Gallina|
 | Pipu’s  | https://github.com/IAN3CANADAS/ENTREGAMODULO1 | Bautista, Ian, Mateo isgro, Joaquin, <lucas Salvo, Nico La Rocca |
 | Sinergia 5S |  | Scaccia 	Octavio, Benedetti	Gino , .	Rocío Andre , 	Sol Florindo ,Pereyra 	Martina  |
 | Tecnica2  | <https://github.com/JuanALuna/Entrega> | * Juan Manuel, * Ariana Galli, Leandro Olguin , Juan Luna , Luciana Noriega |

@@ -3,9 +3,9 @@ Mediación de Materiales TyHM 2026
 
 ## Grupos Anfitriones
 
-ZZZ 11 de Marzo
-Grupos ausentes aleph y Avogadro
-Grupo  Budin de Banana Anfitrion 25 de Marzo
+* ZZZ 11 de Marzo
+* Grupos ausentes aleph y Avogadro
+* Grupo  Budin de Banana Anfitrion 25 de Marzo
 
 
 ## Grupos de Trabajo

@@ -13,7 +13,8 @@ Mediación de Materiales TyHM 2026
 |Grupo de Trabajo | Github de entrega  | Rúbricas |
 |-----------------|------------------------------------------------------------|-------------|
 | Actitud positiva :) |  | Delfina Gómez Ganam , Emiliano Ochoa, Bietti Tomás, Gianella Sfrede Genaro ,Ignacio Perez  |
-| Aleph |  | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol, Matías Rosa ,Yesica Elizabeth , Simón Manuel ,Chiara Palmero,Ruben Exequiel Cruz |
+| Aleph |  | Tomás Santiago ,Tomás Francisco Cabrera Sendra, Juan Marcos Aguirre, Luciano Correa Pol,  |
+| Alfa | <http://github.com/RubenCruz0703/modulo1> | Matías Rosa ,Yesica Elizabeth , Simón Manuel ,Chiara Palmero,Ruben Exequiel Cruz |    
 | Avogadro toast | <https://github.com/lucia-salamone/Entrega_Modulo_1> | Pilar Mujica, Lucia Salamone ,Rocio Martinez, * Valentina?  , Sara Kemelmajer, Caterina DiNnocenzo, Lucas Segura |
 | Budín de banana |  | Dominguez Galdame	Lucía Constanza, Bonita	Milagros Farina,.	María Romero ,Valle 	Julieta  |
 | Calculito |  | Guillermo Damián ,Fabricio, Tiago Sánchez, Mateo Ambrogetti ,Victoria Bautista   |
@@ -36,7 +37,8 @@ Mediación de Materiales TyHM 2026
 | Modern Tech |  | Eugenio ,Sofía Blas Delpozzi, Rocio Anabel, Bianca Nicole, Camila |
 | Pipu’s  | https://github.com/IAN3CANADAS/ENTREGAMODULO1 | Bautista, Ian, Mateo isgro, Joaquin, <lucas Salvo, Nico La Rocca |
 | Sinergia 5S |  | Scaccia 	Octavio, Benedetti	Gino , .	Rocío Andre , 	Sol Florindo ,Pereyra 	Martina  |
-| Tecnica2 ZZZ | https://github.com/bautistapons/entregass | * Juan Manuel, * Ariana Galli, Rocio Gomez, Maria Celina Lopez, Maia Ortiz, Bautista Pons |
+| Tecnica2 ZZZ |  | * Juan Manuel, * Ariana Galli,  |
+| ZZZ | https://github.com/bautistapons/entregass | Rocio Gomez, Maria Celina Lopez, Maia Ortiz, Bautista Pons |  
 | $\lambda$|  | .	Juan Martín, Notti	Joaquin , Peiro	Francisco, .	Nicolas Sarmiento , .	Raimundo Glasner |
 
 

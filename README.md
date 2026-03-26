@@ -19,7 +19,7 @@ Mediación de Materiales TyHM 2026
 | Budín de banana | <https://github.com/Mili5555/Entrega1> | Dominguez Galdame	Lucía Constanza, Bonita	Milagros Farina,.	María Romero ,Valle 	Julieta , Cavalli Hilario |
 | Calculito |  | Guillermo Damián ,Fabricio, Tiago Sánchez, Mateo Ambrogetti ,Victoria Bautista   |
 | Clasica y moderna | https://github.com/santiago-perezvicchi10/Entrega> | María Guadalupe ,Sfragara	Luciano ,Zoia	Julián ,.	Joaquín , .	Santiago Perez Vicchi  |
-| Concejo de sabios |  |//	Pedro, Spongia,	Joaquín Spongia, Facundo Perea, García 	Leslie Rocío ,//	Joaquín  |
+| Concejo de sabios | <https://github.com/Joaquinatorr/ENTREGA>  |//	Pedro, Spongia,	Joaquín Spongia, Facundo Perea, García 	Leslie Rocío ,//	Joaquín  |
 | Dybala a Boca |  | Santiago Joaquín Peña, Sebastian Ezequiel ,Tomas flores ,Numa Barriga Maldonado , Ivan Rodriguez  |
 | Error 404 |  | Lisandro Ezequiel Martin , Tadeo Gabriel, Josefina Perez  |
 | Gordillos Siuu |  | .	Juan González Ignacio ,	Pilar Zuñiga , Euillades	Santiago , Huenchuguala	Joaquin ,.	Celeste |
